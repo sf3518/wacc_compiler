@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BuildASTTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-02-24T21:48:44" hostname="dyn901-162.eduroam.ic.ac.uk" time="0.095">
+  <properties/>
+  <testcase name="validVariable" classname="BuildASTTest" time="0.054"/>
+  <testcase name="validArray" classname="BuildASTTest" time="0.01"/>
+  <testcase name="validPairs" classname="BuildASTTest" time="0.004"/>
+  <testcase name="validExpression" classname="BuildASTTest" time="0.012"/>
+  <testcase name="validScope" classname="BuildASTTest" time="0.001"/>
+  <testcase name="validWhile" classname="BuildASTTest" time="0.001"/>
+  <testcase name="validIO" classname="BuildASTTest" time="0.001"/>
+  <testcase name="validSequence" classname="BuildASTTest" time="0.001"/>
+  <testcase name="validFunction" classname="BuildASTTest" time="0.002"/>
+  <testcase name="validRuntimeErr" classname="BuildASTTest" time="0.001"/>
+  <testcase name="validBasicExit" classname="BuildASTTest" time="0.001"/>
+  <testcase name="validBasicSkip" classname="BuildASTTest" time="0.0"/>
+  <testcase name="validCondition" classname="BuildASTTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
